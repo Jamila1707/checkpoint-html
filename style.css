@@ -1,0 +1,68 @@
+
+.one{
+    color: white;
+    font-size: large;
+    font-family: 'Times New Roman';
+    font-weight: bolder;
+    word-spacing: 20mm;
+    background-color: black;
+    padding: 1%;
+}
+li{
+    display: inline;
+    width: 30%;
+    margin-left: 7%;
+}
+.one li:hover{
+    color: rgb(93, 93, 209);
+}
+.par{
+    font-family: 'Times New Roman';
+    font-size: large;
+}
+article{
+    width: 100%;
+    margin-right: 40%;
+    align-content: center;
+    border: solid rgb(93, 93, 209);
+}
+h1{
+    font-family: 'Times New Roman';
+    font-size: 200%;
+    background-color:rgb(93, 93, 209);
+    margin-top: 0%;
+    padding-left: 40%;
+    color: white;
+}
+.para{
+    font-family: 'Times New Roman';
+    font-size: 120%;
+    padding-left: 10%;
+}
+h2{
+    font-family: 'Times New Roman';
+    font-size: 200%;
+    background-color:rgb(93, 93, 209);
+    padding-left: 40%;
+    color: white;
+}
+h3{
+    color:rgb(93, 93, 209);
+    font-size: 150%;
+    font-family: 'Times New Roman';
+    margin-right:80%;
+    padding: 0.5%;
+    border: solid rgb(93, 93, 209);
+}
+h3:hover{
+    color: black;
+}
+p {
+    font-family: 'Times New Roman';
+    font-size: 120%;
+    font-style: oblique;
+}
+video {
+   width: 30%;
+   height: 20%;
+}
